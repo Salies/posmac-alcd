@@ -1,0 +1,10 @@
+Aula 2
+- economy SVD
+- variância
+- method of snapshots REVISAR
+
+Aula 3
+- testar placa com ruído
+
+Aula 4
+- conferir ST
