@@ -1,0 +1,13 @@
+Em sala tenho quase certeza que ele pediu pra reproduzir o exemplo do livro, só que pra placas,
+mas quando teve a reorganização, ele postou
+
+Parte prática: 
+
+
+
+
+
+
+
+- Sparse Representation: Seção 3.6
+- Sparse Sensor Placement: Seção 3.8
