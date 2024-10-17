@@ -1,7 +1,7 @@
 Aula 2
-- economy SVD
-- variância
-- method of snapshots REVISAR
+- economy SVD -- OK; é o SVD básico
+- variância ???
+- method of snapshots REVISAR -- não ser, ver com o Cassio talvez
 
 Aula 3
 - testar placa com ruído
