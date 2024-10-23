@@ -4,7 +4,10 @@ Aula 2
 - method of snapshots REVISAR -- não ser, ver com o Cassio talvez
 
 Aula 3
-- testar placa com ruído
+- testar placa com ruído OK
 
 Aula 4
-- conferir ST
+- conferir ST OK -- 0 diferença
+
+Aula 7
+- parte 2: thinking
