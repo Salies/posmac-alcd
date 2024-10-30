@@ -1,0 +1,3 @@
+- ver o que deu errado na 3.8
+- matrix completion
+- video denoising via lasso
