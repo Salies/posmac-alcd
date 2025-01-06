@@ -23,7 +23,7 @@ ministrada pelo prof. Cassio Oishi no PosMAC da FCT-UNESP em 2024.
 * Compressão de imagens com FFT e Wavelets
 
 ### Aula 6
-* Compressed sensing para recuperação de sinais
+* Compressed sensing e sparse sensor placement para recuperação de sinais
 
 ### Aula 7
 * Compressed sensing e sparse sensor placement para recuperação de imagens (eigenfaces)
@@ -49,4 +49,4 @@ ministrada pelo prof. Cassio Oishi no PosMAC da FCT-UNESP em 2024.
 * versão linear binária (0 vs resto)
 * versão linear multiclasse
 * versão não-linear binária (0 vs resto)
-* versão não-linear multiclasse*
+* versão não-linear multiclasse
