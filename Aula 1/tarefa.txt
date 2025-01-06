@@ -1,2 +1,0 @@
-- carregar imagem, mostrar valores dos pixels
-- carregar dados (exemplo Apple) -- exemplo dele: carrego dados de 100 empresas. se eu quiser, posso pegar apenas 3.
